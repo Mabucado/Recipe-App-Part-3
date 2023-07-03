@@ -1,0 +1,5 @@
+https://github.com/Mabucado/Recipe-App-Part-3
+
+To run the code you must download the zip file and open it with visual studio then run the project.
+
+The changes i made from part 2 is to add the user interface so that the app is user friendly. I had to change the code i remooved some for loops and created counting sequences to populate the arrays sequently. The printing instead of it being in the console it has a list box to print everything.
